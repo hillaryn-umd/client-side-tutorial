@@ -1,0 +1,361 @@
+.home,
+.home * {
+  box-sizing: border-box;
+}
+.home {
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.vector {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.hillary-nguyen {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  position: absolute;
+  right: 80.42%;
+  left: 5.56%;
+  width: 14.03%;
+  bottom: 91.89%;
+  top: 4.98%;
+  height: 3.13%;
+}
+.home2 {
+  color: #a8ff35;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  right: 26.6%;
+  left: 69.44%;
+  width: 3.96%;
+  bottom: 92.09%;
+  top: 5.76%;
+  height: 2.15%;
+}
+.about {
+  color: #f5f7f4;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  right: 18.68%;
+  left: 77.43%;
+  width: 3.89%;
+  bottom: 92.09%;
+  top: 5.76%;
+  height: 2.15%;
+}
+.contact {
+  color: #f5f7f4;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  position: absolute;
+  right: 9.65%;
+  left: 85.42%;
+  width: 4.93%;
+  bottom: 92.09%;
+  top: 5.76%;
+  height: 2.15%;
+}
+.vector2 {
+  width: 88.89%;
+  height: 0%;
+  position: absolute;
+  right: 5.56%;
+  left: 5.56%;
+  bottom: 89.06%;
+  top: 10.94%;
+  overflow: visible;
+}
+.bmgt-407-information-systems {
+  color: #a8ff35;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: absolute;
+  right: 73.68%;
+  left: 5.56%;
+  width: 20.76%;
+  bottom: 78.13%;
+  top: 19.92%;
+  height: 1.95%;
+}
+.let-s-create-a {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 76px;
+  font-weight: 700;
+  position: absolute;
+  right: 50.56%;
+  left: 5.56%;
+  width: 43.89%;
+  bottom: 64.16%;
+  top: 26.76%;
+  height: 9.08%;
+}
+.website-design {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 76px;
+  font-weight: 700;
+  position: absolute;
+  right: 44.65%;
+  left: 5.56%;
+  width: 49.79%;
+  bottom: 54.98%;
+  top: 35.94%;
+  height: 9.08%;
+}
+.today-let-s-create-a-sample-website-design-in-figma {
+  color: #f5f7f4;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 49.24%;
+  left: 5.56%;
+  width: 45.21%;
+  bottom: 47.75%;
+  top: 49.32%;
+  height: 2.93%;
+}
+.and-export-its-corresponding-html-and-css-code {
+  color: #f5f7f4;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  right: 50.97%;
+  left: 5.56%;
+  width: 43.47%;
+  bottom: 43.85%;
+  top: 53.22%;
+  height: 2.93%;
+}
+.vector3 {
+  width: 13.89%;
+  height: 6.25%;
+  position: absolute;
+  right: 80.56%;
+  left: 5.56%;
+  bottom: 32.52%;
+  top: 61.23%;
+  overflow: visible;
+}
+.get-started {
+  color: #131b18;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  position: absolute;
+  right: 82.22%;
+  left: 7.29%;
+  width: 10.49%;
+  bottom: 34.38%;
+  top: 62.99%;
+  height: 2.64%;
+}
+.vector4 {
+  width: 22.92%;
+  height: 33.2%;
+  position: absolute;
+  right: 5.56%;
+  left: 71.53%;
+  bottom: 37.01%;
+  top: 29.79%;
+  overflow: visible;
+}
+.vector5 {
+  width: 17.36%;
+  height: 2.93%;
+  position: absolute;
+  right: 8.33%;
+  left: 74.31%;
+  bottom: 62.89%;
+  top: 34.18%;
+  overflow: visible;
+}
+.vector6 {
+  width: 11.46%;
+  height: 1.56%;
+  position: absolute;
+  right: 14.24%;
+  left: 74.31%;
+  bottom: 58.4%;
+  top: 40.04%;
+  overflow: visible;
+}
+.vector7 {
+  width: 15.28%;
+  height: 1.56%;
+  position: absolute;
+  right: 10.42%;
+  left: 74.31%;
+  bottom: 55.08%;
+  top: 43.36%;
+  overflow: visible;
+}
+.vector8 {
+  width: 7.64%;
+  height: 9.77%;
+  position: absolute;
+  right: 18.06%;
+  left: 74.31%;
+  bottom: 41.41%;
+  top: 48.83%;
+  overflow: visible;
+}
+.vector9 {
+  width: 8.47%;
+  height: 9.77%;
+  position: absolute;
+  right: 8.33%;
+  left: 83.19%;
+  bottom: 41.41%;
+  top: 48.83%;
+  overflow: visible;
+}
+._01-design {
+  color: #a8ff35;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  right: 87.64%;
+  left: 5.56%;
+  width: 6.81%;
+  bottom: 18.85%;
+  top: 79%;
+  height: 2.15%;
+}
+._02-build {
+  color: #a8ff35;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  right: 58.47%;
+  left: 35.42%;
+  width: 6.11%;
+  bottom: 18.85%;
+  top: 79%;
+  height: 2.15%;
+}
+._03-publish {
+  color: #a8ff35;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  right: 26.94%;
+  left: 65.28%;
+  width: 7.78%;
+  bottom: 18.85%;
+  top: 79%;
+  height: 2.15%;
+}
+.start-with-a-clear-visual-idea {
+  color: #f5f7f4;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  right: 72.85%;
+  left: 5.56%;
+  width: 21.6%;
+  bottom: 14.75%;
+  top: 82.62%;
+  height: 2.64%;
+}
+.bring-it-to-life-with-bootstrap {
+  color: #f5f7f4;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  right: 42.22%;
+  left: 35.42%;
+  width: 22.36%;
+  bottom: 14.75%;
+  top: 82.62%;
+  height: 2.64%;
+}
+.share-it-with-the-world {
+  color: #f5f7f4;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  position: absolute;
+  right: 17.08%;
+  left: 65.28%;
+  width: 17.64%;
+  bottom: 14.75%;
+  top: 82.62%;
+  height: 2.64%;
+}
+.vector10 {
+  width: 88.89%;
+  height: 0%;
+  position: absolute;
+  right: 5.56%;
+  left: 5.56%;
+  bottom: 8.4%;
+  top: 91.6%;
+  overflow: visible;
+}
+.hillary-nguyen-client-side-development {
+  color: #f5f7f4;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  right: 73.06%;
+  left: 5.56%;
+  width: 21.39%;
+  bottom: 3.81%;
+  top: 94.43%;
+  height: 1.76%;
+}
+.figma-html-css {
+  color: #f5f7f4;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: absolute;
+  right: 10.76%;
+  left: 78.47%;
+  width: 10.76%;
+  bottom: 3.81%;
+  top: 94.43%;
+  height: 1.76%;
+}
